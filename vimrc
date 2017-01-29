@@ -7,4 +7,5 @@ set shiftwidth=4
 set expandtab
 set number
 set cursorline
+syntax on
 colorscheme wombat
